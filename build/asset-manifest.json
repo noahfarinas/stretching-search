@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stretching-resource/static/css/main.ab6120c1.css",
+    "main.js": "/stretching-resource/static/js/main.3d01b239.js",
+    "index.html": "/stretching-resource/index.html",
+    "main.ab6120c1.css.map": "/stretching-resource/static/css/main.ab6120c1.css.map",
+    "main.3d01b239.js.map": "/stretching-resource/static/js/main.3d01b239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6120c1.css",
+    "static/js/main.3d01b239.js"
+  ]
+}
